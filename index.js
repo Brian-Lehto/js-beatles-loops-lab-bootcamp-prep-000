@@ -12,5 +12,4 @@ function johnLennonFacts(array) {
     ++index
   }
   return array
-} 
-
+}
