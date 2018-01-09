@@ -17,5 +17,5 @@ function iLoveTheBeatles(number) {
   var iLoveTheBeatles = []
   do {
     iLoveTheBeatles.push('I Love the Beatles!')
-  } while (array[index] < 15);
+  } while (iLoveTheBeatles[index] < 15);
 }
